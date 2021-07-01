@@ -1,0 +1,10 @@
+body {
+  min-height: 2000px;
+  padding-top: 100px;
+  background-color: bisque;
+  
+}
+.navbar,nav{
+  background-color: burlywood;
+  color: black;
+}
